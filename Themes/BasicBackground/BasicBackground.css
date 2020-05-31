@@ -1,6 +1,6 @@
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BetterDocsBlock.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ThemeDevBadge.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://www.patriam.xyz/BetterDiscordAddons/Themes/BetterDocsBlock.css);
+@import url(https://www.patriam.xyz/BetterDiscordAddons/Themes/ThemeDevBadge.css);
+@import url(https://www.patriam.xyz/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
 	--dtransparencyalpha:			0,0,0;
@@ -13,7 +13,7 @@
 	--dfont:						Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
 	--dtextshadow:					transparent;
 	
-	--dbackground:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/background.jpg);
+	--dbackground:					url(https://www.patriam.xyz/BetterDiscordAddons/Themes/BasicBackground/background.jpg);
 	--dbackgroundsize:				cover;
 	--dblur:						0px;
 	--dbackdrop:					rgba(0,0,0,0.85);
